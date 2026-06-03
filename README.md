@@ -1,6 +1,8 @@
 # Funngro Premium Redesign (SaaS Platform)
 
-This is a complete, production-ready, selection-winning redesign of the **Funngro** platform. It reimatures the platform as a modern, premium, venture-backed startup product (reminiscent of Stripe, Vercel, Linear, and Notion) while preserving its core dual-sided business model: teens earning pocket money through micro-projects, and companies hiring vetting Gen-Z talent.
+**Live Demo**: [https://funngroayush.netlify.app/](https://funngroayush.netlify.app/)
+
+This is a complete, production-ready, selection-winning redesign of the **Funngro** platform. It reimagines the platform as a modern, premium, venture-backed startup product (reminiscent of Stripe, Vercel, Linear, and Notion) while preserving its core dual-sided business model: teens earning pocket money through micro-projects, and companies hiring vetted Gen-Z talent.
 
 ---
 
